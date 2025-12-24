@@ -28,5 +28,5 @@ A classic Snake game built with Pygame featuring smooth controls, visual effects
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/RaghuveerSingh05/snake-game.git
+git clone https://github.com/RaghuveerSingh05/snake-game-py.git
 cd snake-game
