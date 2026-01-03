@@ -1,8 +1,8 @@
-# 🐍 SnakeGame - Python
+#  SnakeGame - Python
 
 A classic Snake game built with Pygame featuring smooth controls, visual effects, and increasing difficulty.
 
-## 🎮 Features
+##  Features
 
 - **Classic Snake gameplay** with smooth controls
 - **Visual polish** - Snake with eyes, apple-like food
@@ -11,7 +11,7 @@ A classic Snake game built with Pygame featuring smooth controls, visual effects
 - **Game over screen** with restart option
 - **Grid visualization** for better gameplay
 
-## 🚀 How to Play
+##  How to Play
 
 1. **Move the snake** using arrow keys (↑ ↓ ← →)
 2. **Eat the red food** to grow longer
@@ -19,7 +19,7 @@ A classic Snake game built with Pygame featuring smooth controls, visual effects
 4. **Press R** to restart after game over
 5. **Press ESC** to quit
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.7 or higher
